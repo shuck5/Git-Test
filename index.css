@@ -1,14 +1,16 @@
 body {
-    background-image: url("station.jpg");
+    background-image: url("https://m.media-amazon.com/images/I/81A4fRLBGfL._SX679_.jpg");
     background-size: cover;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: Impact, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
+    color: white;
 }
 
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
+    color: white;
 }
 
 h2 {
